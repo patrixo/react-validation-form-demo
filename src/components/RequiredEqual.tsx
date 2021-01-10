@@ -1,6 +1,6 @@
 import React from 'react';
-import { useValidation } from 'form-validator-react';
 
+import { useValidation } from 'form-validator-react';
 import { ValidationConfig } from 'form-validator-react/dist/types';
 
 import '../styles.css'

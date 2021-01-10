@@ -65,6 +65,7 @@ export const RequiredValue = () => {
         <div className="field-wrapper">
           <label className="label" >Cannot be checked</label>
           <input
+            defaultChecked={true}
             className={`input ${ validity['checkbox']?.isError ? 'error' : ''}`}
             type="checkbox"
             {...useGetValue('checkbox')} />
