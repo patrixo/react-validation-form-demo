@@ -1,0 +1,44 @@
+.app {
+  margin: 0 2em;
+}
+
+.validation-case-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.form {
+  margin: 20px;
+  min-width: 300px;
+}
+
+.label {
+  display: block;
+}
+
+.input {
+  display: block;
+}
+
+.error {
+  border: 1px solid red;
+}
+
+.field-wrapper {
+    height: 60px;
+}
+
+.message {
+  display: block;
+  margin: 0;
+  color: red;
+  font-size: 10px;
+}
+
+.button {
+
+}
+
+.validation-rule {
+  font-style: italic;
+}
