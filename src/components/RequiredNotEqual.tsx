@@ -22,7 +22,7 @@ export const RequiredNotEqual = () => {
     config: ValidationConfig = {
     fields: {
       word2: {
-        equal: {
+        notEqual: {
           fieldname: 'word1',
           message: 'word 1 and word 2 cannot be the same'
         }
