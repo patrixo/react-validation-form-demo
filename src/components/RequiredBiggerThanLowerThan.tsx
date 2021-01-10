@@ -43,7 +43,7 @@ export const RequiredBiggerThanLowerThan = () => {
   };
   `;
 
-  const { useGetValue, isFormValid, validity, formValues } = useValidation(config);
+  const { useGetValue, isFormValid, validity } = useValidation(config);
 
   return (
     <div className="validation-case-wrapper">

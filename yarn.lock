@@ -5064,10 +5064,10 @@ form-data@~2.3.2:
     combined-stream "^1.0.6"
     mime-types "^2.1.12"
 
-form-validator-react@^2.1.3:
-  version "2.1.3"
-  resolved "https://registry.yarnpkg.com/form-validator-react/-/form-validator-react-2.1.3.tgz#17cd747e574f0954387e31ee721660fa0ca9dd91"
-  integrity sha512-7OhXbiofuBq2Y0mmMSrO3XKRYgKUQC40b1ILwlFNarN2BjeDEKa5GPTLYDaqfjk4r8KTU5+Ib4x0q7qUl2u+xg==
+form-validator-react@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/form-validator-react/-/form-validator-react-2.1.5.tgz#7b38649f7ac62d3670556c9c35c341644549e86c"
+  integrity sha512-qL4jZmeyE/GQ3sQWu4vlWmH+S8ZNU77LPmFhm5tRaP9hx11HeUs8yHOeMBjDE5Hsv0ZmfYafjil5/3BR3+QTeg==
 
 forwarded@~0.1.2:
   version "0.1.2"
